@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+02:37:01	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2019%20Sep%202023%2006:37:01%20GMT	http://dutchbros.com/robots.txt		(from )
+02:37:01	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2019%20Sep%202023%2006:37:01%20GMT	http://dutchbros.com/	C:/Users/Drew/Desktop/DutchBros/DutchBros/dutchbros.com/index.html	(from )

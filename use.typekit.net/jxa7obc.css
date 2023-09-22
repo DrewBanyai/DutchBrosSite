@@ -1,0 +1,29 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * futura-pt:
+ *   - http://typekit.com/eulas/000000000000000000010097
+ *   - http://typekit.com/eulas/000000000000000000012192
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-09-01 18:09:41 UTC"}*/
+
+@import url("../p.typekit.net/p4319.css?s=1&amp;k=jxa7obc&amp;ht=tk&amp;f=10887.15586&amp;a=138928333&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"futura-pt";
+src:url("af/0c71d1/000000000000000000010097/27/l9622?subset_id=2&amp;fvd=n8&amp;v=3") format("woff2"),url("af/0c71d1/000000000000000000010097/27/d9622?subset_id=2&amp;fvd=n8&amp;v=3") format("woff"),url("af/0c71d1/000000000000000000010097/27/a9622?subset_id=2&amp;fvd=n8&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"futura-pt";
+src:url("af/c4c302/000000000000000000012192/27/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/c4c302/000000000000000000012192/27/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/c4c302/000000000000000000012192/27/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-futura-pt { font-family: "futura-pt",sans-serif; }

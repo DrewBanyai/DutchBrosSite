@@ -1,0 +1,7 @@
+jQuery(document).ready(function ($) {
+  $('form.webform-submission-newsletter-signup-form [id^="edit-email"]').focus(function(){
+    $(this).parent().addClass('has-focus');
+  }).blur(function(){
+    $(this).parent().removeClass('has-focus');
+  });
+});
